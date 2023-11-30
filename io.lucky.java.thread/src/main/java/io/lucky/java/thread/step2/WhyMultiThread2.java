@@ -42,7 +42,7 @@ class WhyMultiThread2 {
         }
     }
 
-    /*
+    /**
      * Hello World
      * Elapsed time : 2 ms
      * doing disk io stuff ... 0/5
